@@ -11,3 +11,6 @@
 6. A histogram and box plot showing the ratio of the number of times heads was flipped to the total number of times the coin was flipped during 100,000 trials of 1,000 flips each.
 
 This program was created in a Jupyter Notebook and includes observations made after analyzing the data.
+
+The link to the Jupyter Notebook is:
+https://github.com/sateigen/flipping-out/blob/master/coin-flips.ipynb
